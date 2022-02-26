@@ -1,6 +1,7 @@
 void main (){
   String namaDepan = "Puji";
-  String namaBelakang = "nabila";
-  String namaLengkap = namaDepan + " " + namaBelakang;
+  String namaTengah = "Dhiya";
+  String namaBelakang = "Nabila";
+  String namaLengkap = namaDepan + " " + namaTengah + " " + namaBelakang;
   print(namaLengkap); 
 }
